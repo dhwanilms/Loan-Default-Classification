@@ -11,7 +11,7 @@ LendingClub enables borrowers credit unsecured personal loans starting from as l
 LendingClub is transforming the banking system by making loans more affordable and investing much more rewarding. However one major issue is especially in peer-to-peer lending is loan defaulting i.e. the borrowers not being able to payback the loans. Hence there is a necessity to classify each borrower as a defaulter or a defrayer based on the data collected while issuing the loans.
 
 ## Goal
-Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), we would build a model that can predict wether or nor a borrower will pay back their loan? This way in the future when a new potential customer arrives, we can assess whether or not they are likely to pay back the loan.
+Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), we would build a model that can predict wether or nor a borrower will pay back their loan. This way in the future when a new potential customer arrives, we can assess whether or not they are likely to pay back the loan.
 
 ## Requirements
 
