@@ -1,6 +1,8 @@
 # Loan Default Prediction
 Classifying each borrower as a defaulter or a defrayer using machine learning and deep learning models
 
+![Into](intro.jpeg)
+
 ## Lending Club
 LendingClub is the world's largest peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. It operates as an online lending platform that enables borrowers to obtain a loan, and investors to purchase notes backed by payments on loans. 
 LendingClub enables borrowers credit unsecured personal loans starting from as low as $1,000 to as large as $40,000. Investors can browse the loan listings from the website and invest based on the information provided by the borrower. Investors earn money through the interest on the loans and LendingClub earns by charging a service fee to the investors and an origination fee to the borrowers. 
