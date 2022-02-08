@@ -28,4 +28,14 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Data
 
-I have used a subset of the LendingClub dataset provided by [Kaggle](https://www.kaggle.com/wordsforthewise/lending-club) with the data starting from 2008 to 2016. The dataset contains about 396030 observations with each having 27 features such as loan_amount, interest_rate, installment etc. The target feature is the loan_status column which contains either of the two values fully-paid or charged-off.
+I have used a subset of the LendingClub dataset provided by [Kaggle](https://www.kaggle.com/wordsforthewise/lending-club) with the data starting from 2008 to 2016. The dataset contains about 396030 observations with each having 27 features such as loan_amount, interest_rate, installment etc. The target feature is the loan_status column which contains either of the two values fully-paid or charged-off. The raw dataset, processed data and a brief description of all the features can be downloaded from [here](https://drive.google.com/file/d/1SrzBD1Kj_O38f90hsubiRuqbLWwZa9LY/view?usp=sharing).
+
+## Code 
+
+There are two notebook files in the project, Data-Visualization-Preprocessing and Model-Creation-Training. The former contains the code for exploratory data analysis along with preprocessing the raw data so that it is suitable for training different machine learning models. The latter contains the code for training different machine learning and deep learning models. I have trained 4 models, Logistic Regression, K-Nearest Neighbors, Random Forest Classifier and a deep learning Neural network.
+
+## Results
+
+Few of the graphs generated from the dataset.
+
+
