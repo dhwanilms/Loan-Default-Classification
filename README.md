@@ -38,4 +38,23 @@ There are two notebook files in the project, Data-Visualization-Preprocessing an
 
 Few of the graphs generated from the dataset.
 
+#### Correlation among all numeric features
+
+![Correlation among all numeric features](correlation.png)
+
+#### Loan status vs Loan amount
+
+![Loan status vs Loan amount](loan-status_vs_loan-amnt.png)
+
+#### Employment length vs the count of loans paid/charged-off
+
+![Employment length vs the count of loans paid/charged-off](emp_length.png)
+
+##### Note: Other visualization graphs can be found in the notebook files.
+
+## Author
+
+Myself Dhwanil Shah, pursuing my Btech (currently 3rd year) from DA-IICT, Gandhinagar and I'm passionate about Data science, Machine learning and Deep Learning. You can find me on [Linkedin](https://www.linkedin.com/in/dhwanil-shah-a115821ab/), I would love to collaborate on projects related to DS, ML and DL.
+
+
 
